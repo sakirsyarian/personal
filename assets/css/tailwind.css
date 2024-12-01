@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Code for Firefox */
+::-moz-selection {
+    color: rgb(75 85 99);
+}
+
+::selection {
+    color: rgb(75 85 99);
+}
+
 .text-link {
     @apply border-b border-dashed text-gray-400 hover:text-gray-600 dark:text-gray-300 dark:hover:text-gray-100 dark:border-gray-600;
 }
