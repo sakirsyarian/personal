@@ -8,9 +8,9 @@ useHead({
 
 const links = [
   {
-    title: "JavaScript for Beginners",
+    title: "Prompt Engineering for Developers",
     icon: "iconoir:book",
-    url: "https://jagojs.my.id/",
+    url: "https://sakirsyarian.myr.id/pl/prompt-engineering-for-developers",
   },
   {
     title: "Follow me on Threads",
@@ -25,12 +25,12 @@ const links = [
   {
     title: "Subscribe to my YouTube",
     icon: "iconoir:youtube",
-    url: "https://youtube.com/@oterdev",
+    url: "https://youtube.com/@sakirsyarian",
   },
   {
     title: "Buy me a Coffee",
     icon: "iconoir:coffee-cup",
-    url: "https://saweria.co/oterdev",
+    url: "https://saweria.co/Sarian",
   },
 ];
 const socials = [
@@ -44,11 +44,11 @@ const socials = [
     icon: "iconoir:instagram",
     url: "https://instagram.com/sakirsyarian",
   },
-  {
-    name: "github",
-    icon: "iconoir:github",
-    url: "https://github.com/oterdev",
-  },
+  // {
+  //   name: "github",
+  //   icon: "iconoir:github",
+  //   url: "https://github.com/sakirsyarian",
+  // },
   {
     name: "email",
     icon: "iconoir:mail",
@@ -57,7 +57,7 @@ const socials = [
   {
     name: "tiktok",
     icon: "iconoir:tiktok",
-    url: "https://tiktok.com/@oterdev",
+    url: "https://tiktok.com/@sakirsyarian",
   },
 ];
 </script>
