@@ -8,9 +8,24 @@ useHead({
 
 const links = [
   {
+    title: "Beginner JavaScript ",
+    icon: "iconoir:book",
+    url: "https://sakirsyarian.myr.id/pl/ebook-javascript",
+  },
+  {
+    title: "Frontend Roadmap",
+    icon: "iconoir:book",
+    url: "https://sakirsyarian.myr.id/pl/frontend-roadmap",
+  },
+  {
     title: "Prompt Engineering for Developers",
     icon: "iconoir:book",
     url: "https://sakirsyarian.myr.id/pl/prompt-engineering-for-developers",
+  },
+  {
+    title: "Shadcn Admin Dashboard",
+    icon: "iconoir:dashboard-dots",
+    url: "https://sakirsyarian.myr.id/pl/shadcn-admin-dashboard",
   },
   {
     title: "Follow me on Threads",
@@ -44,11 +59,6 @@ const socials = [
     icon: "iconoir:instagram",
     url: "https://instagram.com/sakirsyarian",
   },
-  // {
-  //   name: "github",
-  //   icon: "iconoir:github",
-  //   url: "https://github.com/sakirsyarian",
-  // },
   {
     name: "email",
     icon: "iconoir:mail",
